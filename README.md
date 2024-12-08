@@ -27,7 +27,7 @@
 > | Francçois | PERRIN |
 > | Julien | PHILIP |
 > | Yves | PRIGENT |
-> | Philippe | REGENT |
+> | Philippe | REGENT | 02.96.37.06.47 | 06.38.34.85.15 |
 > | Monique | THEREZE |
 > | Jean-Marie | THEREZE |
 > 
