@@ -17,8 +17,8 @@
 > | Alain | LE BIVIC |
 > | Robert | LE TACON |
 > | Rita | LE TOHIC |
-> | Nicole | MELSCOET|
-> | Pierre | MELSCOET |
+> | Nicole | MELSCOET| 02 96 48 33 71 |
+> | Pierre | MELSCOET | 02 96 48 33 71 | 06 75 56 94 23 |
 > | Jean | MOY |
 > | Françis | PAIMPARAY |
 > | Monique | PENCHE |
@@ -28,6 +28,23 @@
 > | Philippe | REGENT | 02.96.37.06.47 | 06.38.34.85.15 |
 > | Monique | THEREZE |
 > | Jean-Marie | THEREZE |
+
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
 > 
 > 
 > 
